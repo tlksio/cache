@@ -1,0 +1,24 @@
+{
+  "name": "cache",
+  "version": "0.0.1",
+  "description": "cache microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlksio/cache.git"
+  },
+  "keywords": [
+    "tlks",
+    "cache",
+    "microservice"
+  ],
+  "author": "Raül Pérez <repejota@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlksio/cache/issues"
+  },
+  "homepage": "https://github.com/tlksio/cache"
+}
