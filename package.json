@@ -20,5 +20,16 @@
   "bugs": {
     "url": "https://github.com/tlksio/cache/issues"
   },
-  "homepage": "https://github.com/tlksio/cache"
+  "homepage": "https://github.com/tlksio/cache",
+  "dependencies": {
+    "express": "^4.12.4",
+    "file-stream-rotator": "0.0.6",
+    "morgan": "^1.5.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.0",
+    "jshint-reporter-jscs": "^0.1.0",
+    "jshint-stylish": "^2.0.0"
+  }
 }
